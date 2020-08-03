@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 👋
+
+My name is Alvaro Mendez and I am a Ph.D. student. I am from Spain, currently working in Madrid. My work is centered on high dimensional statisatics, in which I use mainly 
+![](https://img.shields.io/badge/Code-R-2bbc8c)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+## Recent work
+
+I have recently published a new package for python, [asgl](https://github.com/alvaromc317/asgl), that brings a lot of material for regression modelling that was missing in python. Give it a look!
 
 <!--
 **alvaromc317/alvaromc317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
