@@ -7,8 +7,8 @@ I am Álvaro Mendez Civieta, a postdoctoral researcher at Columbia University in
 
 ## Recent work
 
-I have recently published a new package for python, [asgl](https://github.com/alvaromc317/asgl), that brings a lot of material for regression modelling that was missing in python. Give it a look!
-
+* I have recently published a new package for python, [asgl](https://github.com/alvaromc317/asgl), that brings a lot of material for regression modelling that was missing in python. Give it a look!
+* I have also published an R package for a new methodology named Functional Quantile Principal Component Analysis named [FunQ](https://github.com/alvaromc317/FunQ)
 <!--
 **alvaromc317/alvaromc317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
